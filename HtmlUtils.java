@@ -1,6 +1,5 @@
 package com.kyexpress.erp.kuasheng.receive2.provider.component;
 
-import com.alibaba.fastjson.JSONObject;
 import com.kyexpress.framework.utils.StringUtils;
 import org.apache.commons.lang.StringEscapeUtils;
 import org.springframework.stereotype.Component;
