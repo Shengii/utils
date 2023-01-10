@@ -1,8 +1,4 @@
-package com.kyexpress.erp.kuasheng.receive2.provider.component;
-
-import com.kyexpress.framework.utils.StringUtils;
-import org.apache.commons.lang.StringEscapeUtils;
-import org.springframework.stereotype.Component;
+package com.crs.util;
 
 /**
  * @author chenruisheng
@@ -10,8 +6,7 @@ import org.springframework.stereotype.Component;
  * @description
  * @date 2023/1/9 16:01
  */
-@Component
-public class ImRichTextService {
+public class HtmlUtils {
 
     /**
      * 过滤html标签，并反转义内容中的特殊字符
